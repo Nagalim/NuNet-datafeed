@@ -1,21 +1,9 @@
 {
     "custodians" : [
         {
-            "address" : "BEuimmeoME52rKhiuiXvGBoTKP8r5fPwrp",
-            "amount" : 4760.0
-        },
-        {
-            "address" : "BDroid6QBUXXt7QFD51BixZzmEgwmTBMNX",
-            "amount" : 16000.0
-        },
-        {
             "address" : "BDjdqcmTXjeWFtXCFC6j3GjcbPwBDu4c7k",
             "amount" : 328.0
         },
-        {
-            "address" : "BJ8vw82j8CTQwzi4QLocyddkgVtPkrcHXz",
-            "amount" : 4000.0
-        }
     ],
     "parkrates" : [
         {
@@ -37,10 +25,6 @@
                     "blocks" : 131072,
                     "rate" : 0.00996821
                 },
-                {
-                    "blocks" : 262144,
-                    "rate" : 0.0
-                }
             ]
         }
     ],
